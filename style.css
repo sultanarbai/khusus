@@ -1,0 +1,23 @@
+.weather-container {
+	background: #ccc;
+	text-align: center;
+}
+.weather {
+	font-size: 24px;
+	margin: 0;
+}
+.temp {
+	font-size: 60px;
+	margin: 0;
+	font-weight: bold;
+}
+.name {
+	font-size: 40px;
+	margin: 0;
+	font-style: italic;
+}
+.wind {
+	font-size: 30px;
+	margin: 0;
+	font-style: italic;  
+}
